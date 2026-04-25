@@ -1,3 +1,12 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "evil",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "1e0X69ylhIcg--5dBtdDLJslAz4GXXX7qXuCSN1vFoLf1Ci9-UWq_4keJ547ro_yvNFT4mvf5Uvr8wQrymi2kOCeB8yhEeCfuegcKw8WBvsdAxuf_nqUC3SCsqi01ZRo3EWj7jOVNoeXobF24wNcyHjt8IznB3uaKzxygI2vjhmhDc7WuDRb-hVwHW1NyTwNB-qSnAa5PlZmgiSoeVngqCbhsOEzAsjzRUQN0I0hULXWPy-N20dDd8sS3Hjw3D4Uf255mkgB-XXlTKKqhpUtgLS9myQeffk9mdldvqOPazbc2uBGLe3H8NYoAWSSVzNc28aqxPrrNpGFsSgx0J-cAw",
+      "e": "AQAB"
+    }
+  ]
 }
